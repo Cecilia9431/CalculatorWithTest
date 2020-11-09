@@ -1,2 +1,2 @@
-# App realizzata con Maven
+# App realizzata con Maven e Java
 # CalculatorWithTest
