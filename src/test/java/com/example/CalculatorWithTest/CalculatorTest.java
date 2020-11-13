@@ -13,7 +13,7 @@ public class CalculatorTest extends TestCase {
 		super();
 		calculator = new Calculator();
 		firstNumber = 10;
-		secondNumber = 1;
+		secondNumber = 0;
 	}
 
 	public void testAddition() {
